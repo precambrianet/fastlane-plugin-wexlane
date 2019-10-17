@@ -1,0 +1,3 @@
+lane :test_android do
+  android_get_version
+end
