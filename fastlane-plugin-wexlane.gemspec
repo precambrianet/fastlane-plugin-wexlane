@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email         = 'chris.river@wexinc.com'
 
   spec.summary       = 'Common tools for CI'
-  # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-wexlane"
+  spec.homepage      = "https://github.com/precambrianet/fastlane-plugin-wexlane"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
